@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khubayan
 - 👀 I’m interested in writing code
 - 🌱 I’m currently learning ES6
-- 💞️ I’m looking to collaborate on Lovr
+- 💞️ I’m looking to collaborate on Love
 - 📫 How to reach me unknown
 
 <!---
