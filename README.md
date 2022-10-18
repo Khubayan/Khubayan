@@ -46,7 +46,7 @@
   
 <footer align="center">
 <!-- 	![Pop!\_OS]() -->
-	<p>
+	<span>
 		<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
 <!-- 	<img src=""/> -->
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -59,7 +59,7 @@
 	<img src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
-	</p>
+	</span>
 </footer>
 
 
