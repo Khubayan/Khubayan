@@ -24,7 +24,7 @@
  
   
 </div>
- 
+ <p>I'm mainly learn web technology languages such as <img src="https://skills.thijs.gg/icons?i=js,html,css,wasm" alt=""/>
 <main>
     
 </main>
