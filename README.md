@@ -58,7 +58,7 @@
   
   
 </div>
- <p>I'm mainly learn web technology languages but also like to get in touch in game developer..
+<!--  <p>I'm mainly learn web technology languages but also like to get in touch in game developer..
 <main>
     
 </main>
@@ -78,4 +78,4 @@
 <!---
 Khubayan/Khubayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> -->
