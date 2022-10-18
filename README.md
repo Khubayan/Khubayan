@@ -18,7 +18,7 @@
     Hi , I'm Khubayan
   </h1>
   <p>
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=5BCDFF&center=true&multiline=true&width=435&lines=Self+Taught+Junior+Programmer;Learner+and+Explorer;Weeb+and+Game)](https://git.io/typing-svg)
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=5BCDFF&center=true&multiline=true&width=435&lines=Self+Taught+Junior+Programmer;Learner+and+Explorer;Weeb+and+Game" alt="Typing SVG" /></a>
   </p>
   
  
