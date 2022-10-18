@@ -25,7 +25,7 @@
     
   </p>
   
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khubayan&show_icons=true&theme=tokyonight)
   
 </div>
  <p>I'm mainly learn web technology languages but also like to get in touch in game developer..
