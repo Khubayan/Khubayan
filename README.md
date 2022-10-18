@@ -14,7 +14,7 @@
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Khubaya&style=flat-square&color=blue" alt=""/>
-  [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+  [![Github]<img src="https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social" alt=""/>
   <h1>
     Hi , I'm Khubayan
   </h1>
@@ -28,6 +28,11 @@
   
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khubayan&show_icons=true&theme=tokyonight)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubayan&theme=tokyonight)
+ <br/>
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
   
 </div>
  <p>I'm mainly learn web technology languages but also like to get in touch in game developer..
