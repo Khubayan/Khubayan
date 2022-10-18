@@ -15,10 +15,10 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Khubaya&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi , I'm Khubayan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+    Hi , I'm Khubayan
   </h1>
   <p>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=5BCDFF&center=true&multiline=true&width=435&lines=Self+Taught+Junior+Programmer;Learner+and+Explorer;Weeb+and+Game)](https://git.io/typing-svg)
   </p>
   
  
