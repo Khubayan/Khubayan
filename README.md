@@ -31,7 +31,7 @@
  <br/>
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/khubayan"><img alt="Khubayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khubayan&custom_title=Khubayan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
 </div>
