@@ -24,8 +24,10 @@
 </div>
  
 <main>
-     <img src="https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif" alt=""/>
-  <p>aaasasa</p>
+    <div style="display:flex">
+       <img src="https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif" alt=""/>
+      <p>aaasasa</p>
+  </div>
 </main>
   
   
