@@ -24,7 +24,7 @@
 </div>
  
 <main>
-    <div style="display:flex">
+    <div style="display:inline">
        <img src="https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif" alt=""/>
       <p>aaasasa</p>
   </div>
