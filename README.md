@@ -37,16 +37,7 @@
   <br/>
   
   
-</div>
- <p>I'm mainly learn web technology languages but also like to get in touch in game developer..
-<main>
-    
-</main>
-  
-  
-<div align="center">
-<!-- 	![Pop!\_OS]() -->
-	<p>
+  <p>
 		<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
 <!-- 	<img src=""/> -->
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -62,6 +53,18 @@
 	<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 	</p>
+  
+  
+</div>
+ <p>I'm mainly learn web technology languages but also like to get in touch in game developer..
+<main>
+    
+</main>
+  
+  
+<div align="center">
+<!-- 	![Pop!\_OS]() -->
+	
 </div>
 
 
