@@ -4,7 +4,7 @@
 - 💞️ I’m now looking to collaborate on simple programs
 
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Khubaya&style=flat-square&color=blue" alt=""/>
 
 
 
