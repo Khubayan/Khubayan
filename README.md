@@ -29,18 +29,13 @@
 <!--  ![GitHub stats] -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khubayan&show_icons=true&theme=tokyonight"/>
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubayan&theme=tokyonight) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khubayan&layout=compac&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khubayan&layout=compact&theme=tokyonight"/>
  <br/>
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/khubayan"><img alt="Khubayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khubayan&custom_title=Khubayan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
-  <p align="center">
-<a href="https://github.com/azizovrafael">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khubayan&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
   
 </div>
  <p>I'm mainly learn web technology languages but also like to get in touch in game developer..
