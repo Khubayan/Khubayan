@@ -26,7 +26,7 @@
   </p>
   
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khubayan&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubayan&theme=tokyonight)
   
 </div>
  <p>I'm mainly learn web technology languages but also like to get in touch in game developer..
