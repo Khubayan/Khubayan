@@ -44,7 +44,7 @@
 </main>
   
   
-<footer align="center">
+<div align="center">
 <!-- 	![Pop!\_OS]() -->
 	<p>
 		<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
@@ -62,7 +62,7 @@
 	<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 	</p>
-</footer>
+</div>
 
 
 
