@@ -22,7 +22,8 @@
  
   
 </div>
-
+  <img scr="https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif" alt=""/>
+  <p>aaasasa</p>
 <main>
     
 </main>
