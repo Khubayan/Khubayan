@@ -26,9 +26,10 @@
     
   </p>
   
- ![GitHub stats]
- <img src="https://github-readme-stats.vercel.app/api?username=Khubayan&show_icons=true&theme=tokyonight"/>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubayan&theme=tokyonight)
+<!--  ![GitHub stats] -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khubayan&show_icons=true&theme=tokyonight"/>
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubayan&theme=tokyonight) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khubayan&theme=tokyonight"/>
  <br/>
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
