@@ -15,7 +15,7 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Khubaya&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi , I'm Rafael <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+    Hi , I'm Khubayan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
   </h1>
   
  
