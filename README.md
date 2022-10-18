@@ -24,15 +24,12 @@
 </div>
  
 <main>
-    <div style="display:inline">
-       <img src="https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif" alt=""/>
-      <p>aaasasa</p>
-  </div>
+    
 </main>
   
   
 <footer>
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt=""/>
+
 </footer>
 
 
