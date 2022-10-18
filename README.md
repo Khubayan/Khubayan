@@ -14,7 +14,7 @@
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Khubaya&style=flat-square&color=blue" alt=""/>
-  [![Github](<img src="https://img.shields.io/github/followers/Khubayan?label=Follow&style=social" alt=""/>)
+  <img src="https://img.shields.io/github/followers/Khubayan?label=Follow&style=social" alt=""/>
   <h1>
     Hi , I'm Khubayan
   </h1>
