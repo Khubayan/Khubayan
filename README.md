@@ -23,3 +23,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khubayan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <!--PROFILE VIEWS-->
 ![](https://komarev.com/ghpvc/?username=Khubayan&color=green)
+<!--GEOSTATIC-->
+https://github.com/username/Khubayan
