@@ -24,4 +24,4 @@
 <!--PROFILE VIEWS-->
 ![](https://komarev.com/ghpvc/?username=Khubayan&color=green)
 <!--GEOSTATIC-->
-https://github.com/username/Khubayan
+<figure><embed src="https://wakatime.com/share/@98857d1b-166f-4069-97aa-9c86e1437538/c696faf9-1631-4100-bf65-239987247449.svg"></embed></figure>
