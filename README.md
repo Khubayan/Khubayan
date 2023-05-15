@@ -39,3 +39,6 @@ Apart from coding, I enjoy reading technical blogs and participating in online f
   <!--LANGUAGES STATS-->
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Khubayan&layout=compact&theme=tokyonight&hide_border=true" alt="Language Stats">
 </div>
+
+<!-- WAKATIME CIRCCLE DIAGRAM -->
+<figure><embed src="https://wakatime.com/share/@DeyL/b775b876-cf89-4da3-831a-bc1c3e9eca24.svg"></embed></figure>
