@@ -41,4 +41,4 @@ Apart from coding, I enjoy reading technical blogs and participating in online f
 </div>
 
 <!-- WAKATIME CIRCCLE DIAGRAM -->
-<IMG src="https://wakatime.com/share/@DeyL/6c50d095-cd35-4d91-bc35-7104e134bbc1.svg"/>
+<img src="https://wakatime.com/share/@DeyL/6c50d095-cd35-4d91-bc35-7104e134bbc1.svg"/>
