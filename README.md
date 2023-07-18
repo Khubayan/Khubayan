@@ -37,7 +37,7 @@ Apart from coding, I enjoy reading technical blogs and participating in online f
 </div>
 <div align="center">
  <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Khubayan&layout=compact&theme=tokyonight&hide_border=true" alt="Language Stats"> -->
-  <img src="https://github-stats-alpha.vercel.app/api?username=Khubayan&cc=000&tc=fff&ic=fff&bc=000 alt="Overview">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Khubayan&cc=000&tc=fff&ic=fff&bc=000" alt="Overview">
 </div>
 
 
