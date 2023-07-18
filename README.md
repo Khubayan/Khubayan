@@ -27,6 +27,13 @@ Apart from coding, I enjoy reading technical blogs and participating in online f
 </p>
 
 <div align="center">
+ <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Khubayan&layout=compact&theme=tokyonight&hide_border=true" alt="Language Stats"> -->
+  <img src="https://github-stats-alpha.vercel.app/api?username=Khubayan&cc=000&tc=fff&ic=fff&bc=000" alt="Overview">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khubayan&show_icons=true&theme=tokyonight&hide_border=true" alt="Overview">
+</div>
+<div align="center">
   <!--TROPHY-->
   <img src="https://github-profile-trophy.vercel.app/?username=Khubayan&theme=darkhub" alt="trophy">
 </div>
@@ -34,10 +41,6 @@ Apart from coding, I enjoy reading technical blogs and participating in online f
 <div align="center">
   <!--STREAK CARD-->
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Khubayan&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-<div align="center">
- <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Khubayan&layout=compact&theme=tokyonight&hide_border=true" alt="Language Stats"> -->
-  <img src="https://github-stats-alpha.vercel.app/api?username=Khubayan&cc=000&tc=fff&ic=fff&bc=000" alt="Overview">
 </div>
 
 
