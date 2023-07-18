@@ -36,9 +36,11 @@ Apart from coding, I enjoy reading technical blogs and participating in online f
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Khubayan&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 <div align="center">
-  <!--LANGUAGES STATS-->
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Khubayan&layout=compact&theme=tokyonight&hide_border=true" alt="Language Stats">
+ <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Khubayan&layout=compact&theme=tokyonight&hide_border=true" alt="Language Stats"> -->
+<img src="https://github-stats-alpha.vercel.app/api?username=Khubayan&cc=000&tc=fff&ic=fff&bc=000 alt="Overview>
 </div>
+
+
 
 <!-- WAKATIME CIRCCLE DIAGRAM -->
 <img src="https://wakatime.com/share/@DeyL/6c50d095-cd35-4d91-bc35-7104e134bbc1.svg"/>
