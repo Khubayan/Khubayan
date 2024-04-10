@@ -1,5 +1,4 @@
-My dream
-I want making apps that help people solve their problems and also creating games that people can enjoy.
+🌟I want making apps that help people solve their problems and also creating games that people can enjoy.🌟
 
 Webdev Toolkit:
 
